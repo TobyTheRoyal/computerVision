@@ -1,0 +1,6 @@
+{
+  "image": "kamera.png",
+  "radius": 4,
+  "sigma": 1,
+  "iterations": 10
+}

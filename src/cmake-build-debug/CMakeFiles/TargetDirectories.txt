@@ -1,0 +1,8 @@
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/CMakeFiles/clean-all.dir
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/CMakeFiles/rebuild_cache.dir
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/CMakeFiles/edit_cache.dir
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/CMakeFiles/rebuild_cache.dir
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/CMakeFiles/edit_cache.dir
+/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/CMakeFiles/cvtask1.dir

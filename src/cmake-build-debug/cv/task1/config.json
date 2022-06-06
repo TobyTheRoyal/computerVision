@@ -1,0 +1,33 @@
+{
+  "data_selected": [
+    "kamera/",
+    "baer/",
+    "starwars2/",
+    "haus/"
+  ],
+  "data_path": "data/",
+  "out_directory": "output/",
+  "out_filetype": ".png",
+  "out_filename_number_zero_filled": true,
+  "out_filename_number_width": 2,
+  "out_filenames": [
+    "init_kernel_k",
+    "init_kernel_kL",
+    "init_kernel_kR",
+    "init_kernel_kGauss_2d",
+    "init_kernel_kGauss_1d",
+    "swf_iteration",
+    "diff_iteration",
+    "end_swf",
+    "gauss_2d_iteration",
+    "end_gaus_2d",
+    "gauss_1d_iteration",
+    "end_gaus_1d",
+    "bgr2yuv",
+    "channel",
+    "yuv2bgr",
+    "bonus_bil_iteration",
+    "end_bonus_bil",
+    "test"
+  ]
+}

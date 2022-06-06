@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cvtask1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cv\;CMake Files\cv\task1\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cvtask1">
+				<Option output="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/cvtask1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFULL_VERSION=1"/>
+					<Add directory="/software/opencv/include"/>
+					<Add directory="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cgcvcommon"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 cvtask1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cvtask1/fast">
+				<Option output="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/cvtask1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFULL_VERSION=1"/>
+					<Add directory="/software/opencv/include"/>
+					<Add directory="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cgcvcommon"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 cvtask1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cmake-build-debug/cv/task1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cv/task1/algorithms.cpp">
+			<Option target="cvtask1"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cv/task1/algorithms.h">
+			<Option target="cvtask1"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cv/task1/main.cpp">
+			<Option target="cvtask1"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cv/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cv\"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cv/task1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cv\task1\"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,6 @@
+{
+  "image": "haus.jpeg",
+  "radius": 2,
+  "sigma": 1,
+  "iterations": 10
+}

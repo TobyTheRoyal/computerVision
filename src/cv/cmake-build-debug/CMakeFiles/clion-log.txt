@@ -1,0 +1,4 @@
+"/System/Volumes/Data/Previous System/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cv
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/tobiashamedl/Desktop/CV/cgcvmaster-cv-task1-11808141/src/cv/cmake-build-debug

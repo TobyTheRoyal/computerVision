@@ -1,0 +1,6 @@
+{
+  "image": "starwars2.jpeg",
+  "radius": 3,
+  "sigma": 1,
+  "iterations": 30
+}
